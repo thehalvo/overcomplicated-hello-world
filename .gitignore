@@ -1,0 +1,22 @@
+# Ignore build directories
+build/
+bin/
+
+# Ignore object files, executables, and libraries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore editor/IDE configs
+*.swp
+*.swo
+*.user
+*.vcxproj*
+*.DS_Store
+
+# Ignore any generated files
+*.log
+
